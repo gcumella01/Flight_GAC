@@ -1,0 +1,14 @@
+E:\Flight_project1\Flight_project1\bin\Debug\netcoreapp3.1\Flight_project1.exe
+E:\Flight_project1\Flight_project1\obj\Debug\netcoreapp3.1\Flight_project1.csprojAssemblyReference.cache
+E:\Flight_project1\Flight_project1\obj\Debug\netcoreapp3.1\Flight_project1.AssemblyInfoInputs.cache
+E:\Flight_project1\Flight_project1\obj\Debug\netcoreapp3.1\Flight_project1.AssemblyInfo.cs
+E:\Flight_project1\Flight_project1\bin\Debug\netcoreapp3.1\Flight_project1.deps.json
+E:\Flight_project1\Flight_project1\bin\Debug\netcoreapp3.1\Flight_project1.runtimeconfig.json
+E:\Flight_project1\Flight_project1\bin\Debug\netcoreapp3.1\Flight_project1.runtimeconfig.dev.json
+E:\Flight_project1\Flight_project1\bin\Debug\netcoreapp3.1\Flight_project1.dll
+E:\Flight_project1\Flight_project1\bin\Debug\netcoreapp3.1\Flight_project1.pdb
+E:\Flight_project1\Flight_project1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+E:\Flight_project1\Flight_project1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Flight_project1\Flight_project1\obj\Debug\netcoreapp3.1\Flight_project1.csproj.CopyComplete
+E:\Flight_project1\Flight_project1\obj\Debug\netcoreapp3.1\Flight_project1.dll
+E:\Flight_project1\Flight_project1\obj\Debug\netcoreapp3.1\Flight_project1.pdb
